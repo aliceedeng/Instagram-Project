@@ -1,0 +1,5 @@
+pkl_folder/*
+.idea/*
+data/*
+.DS_Store
+*.iml
